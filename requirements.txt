@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+plotly
+pycaret
+scikit-learn
+scipy
+joblib
+mlflow
+numba
+python-dotenv
+qdrant-client
+openai

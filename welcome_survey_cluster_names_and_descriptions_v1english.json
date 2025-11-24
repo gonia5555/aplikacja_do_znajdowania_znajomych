@@ -1,0 +1,35 @@
+{
+    "Cluster 0": {
+        "name": "Forest and Dog Enthusiasts",
+        "description": "This cluster includes individuals who prefer spending time in the forest and have higher education. Most of them are men aged 45–54, and their favorite animals are dogs."
+    },
+    "Cluster 1": {
+        "name": "Water-Side Professionals",
+        "description": "This cluster includes individuals with higher education who prefer spending time by the water. Most of them are men aged 35–44, and their favorite animals are dogs."
+    },
+    "Cluster 2": {
+        "name": "Young Mountain Lovers",
+        "description": "This cluster includes younger individuals with secondary education who prefer spending time in the mountains. Most of them are men aged 25–34, and their favorite animals are dogs."
+    },
+    "Cluster 3": {
+        "name": "Educated Mountain Enthusiasts",
+        "description": "This cluster includes individuals with higher education who prefer spending time in the mountains. Most of them are men aged 35–44, and their favorite animals are cats."
+    },
+    "Cluster 4": {
+        "name": "Mountain and Diverse Animal Lovers",
+        "description": "This cluster includes individuals with higher education who prefer spending time in the mountains. Most of them are men aged 25–34, and their favorite animals are dogs and cats."
+    },
+    "Cluster 5": {
+        "name": "Women by the Water",
+        "description": "This cluster includes individuals with higher education who prefer spending time by the water. Most of them are women aged 45–54, and their favorite animals are dogs."
+    },
+    "Cluster 6": {
+        "name": "Forest and Diverse Animal Lovers",
+        "description": "This cluster includes individuals with higher education who prefer spending time in the forest. Most of them are men aged 45–54, and their favorite animals include various animals."
+    },
+    "Cluster 7": {
+        "name": "Educated Water and Cat Enthusiasts",
+        "description": "This cluster includes individuals with higher education who prefer spending time by the water. Most of them are men aged 35–44, and their favorite animals are cats."
+    }
+}
+
